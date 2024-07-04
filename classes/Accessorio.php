@@ -1,7 +1,7 @@
 <?php
+require_once __DIR__ . '/Prodotti.php';
 
 class Accessorio extends Prodotti {
-
     private $utilità;
 
 
